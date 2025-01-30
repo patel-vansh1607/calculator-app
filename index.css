@@ -1,3 +1,7 @@
+#keys{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
 button{
     width: 100px;
     height: 100px;
